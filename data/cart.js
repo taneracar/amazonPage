@@ -19,7 +19,6 @@ export function loadFromStorage() {
       },
     ];
   }
-  console.log(cart);
 }
 
 function saveToStorage() {
